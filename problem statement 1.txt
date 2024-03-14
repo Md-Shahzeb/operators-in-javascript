@@ -1,0 +1,7 @@
+Problem statement 1.Explain the usage of ternary operator with syntax and write a program to check whether the number is even
+		    or odd using the ternary operator.
+	Solution:-The ternary operator is a shorthand way of writing an if-else statement in many programming languages.
+		  It takes three operands:The condition is evaluated first. If the condition is true, the expression_if_true is executed 
+		  and its value is returned. If the condition is false,the expression_if_false is executed and its value is returned.
+		  Syntax:
+			 condition ? expression_if_true : expression_if_false
